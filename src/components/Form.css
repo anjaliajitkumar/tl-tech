@@ -1,0 +1,18 @@
+body{
+    background: rgba(0, 0, 0, 0.808);
+}
+h2{
+    color: white;
+}
+#outlined-basic{
+    background-color: white;
+    border-radius: 5px;
+}
+#btn{
+    background-color: rgb(255, 153, 0);
+    border-radius: 20px;
+}
+.form1{
+    justify-content: center;
+    text-align: center;
+}
